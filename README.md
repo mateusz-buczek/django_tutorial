@@ -8,7 +8,7 @@ TIME_ZONE is set to 'Europe/Warsaw'. It's recommended to change it accordong to 
 
 LANGUAGE_CODE is kept 'en-uss' by default, assuming it's the most versatie choice 
 
-## Running 
+## Running  
 Copy repository to your python IDLE (pyCharm suggested). Requires installed Django. 
 In terminal go to mysite directory and type: 
 ```
